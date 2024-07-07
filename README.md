@@ -9,7 +9,8 @@ Developed Real-Estate Market Place using MERN Stack
 ## Create Listing Page
 ![image](https://github.com/viv2711/Real-Estate-App/assets/103623797/920baede-1474-495a-b1ef-17cf0c511e4f)
 ## Search Page
-![image](https://github.com/viv2711/Real-Estate-App/assets/103623797/45bee62a-0e72-4f84-94d6-d24d4dcbb77f)
+![image](https://github.com/viv2711/Real-Estate-App/assets/103623797/7e73c1aa-76fb-4410-b2c7-315e1902b327)
+
 
 
 
